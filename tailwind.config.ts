@@ -36,6 +36,7 @@ const config: Config = {
         "187px": "187px",
         "201px": "201px",
         "210px": "210px",
+        "219px": "219px",
         "247px": "247px",
         "1400px": "1400px",
       },
