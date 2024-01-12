@@ -17,10 +17,13 @@ const config: Config = {
       "light-grey": "#F1F1F1",
     },
     extend: {
+      spacing: {
+        "50px": "50px",
+        "100px": "100px",
+        "201px": "201px",
+      },
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        "hero-arc": "url('/assets/images/hero_bg_arc.svg')",
       },
     },
   },
