@@ -18,18 +18,33 @@ const config: Config = {
     },
     extend: {
       spacing: {
+        "6px": "6px",
+        "22px": "22px",
         "50px": "50px",
+        "56px": "56px",
         "60px": "60px",
+        "68px": "68px",
+        "72px": "72px",
+        "84px": "84px",
         "100px": "100px",
+        "120px": "120px",
+        "144px": "144px",
+        "150px": "150px",
+        "185px": "185px",
         "187px": "187px",
         "201px": "201px",
+        "210px": "210px",
         "247px": "247px",
+        "1400px": "1400px",
       },
       lineHeight: {
         72: "72px",
       },
       backgroundImage: {
         "hero-arc": "url('/assets/images/hero_bg_arc.svg')",
+      },
+      boxShadow: {
+        mini: "0px 4px 32px 0px rgba(0, 0, 0, 0.08)",
       },
     },
   },
