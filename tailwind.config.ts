@@ -38,6 +38,8 @@ const config: Config = {
         "210px": "210px",
         "219px": "219px",
         "247px": "247px",
+        "370px": "370px",
+
         "1400px": "1400px",
       },
       lineHeight: {
@@ -45,6 +47,7 @@ const config: Config = {
       },
       backgroundImage: {
         "hero-arc": "url('/assets/images/hero_bg_arc.svg')",
+        "start-now-arc": "url('/assets/images/start_now_bg_arc.svg')",
       },
       boxShadow: {
         mini: "0px 4px 32px 0px rgba(0, 0, 0, 0.08)",

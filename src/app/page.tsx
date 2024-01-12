@@ -5,6 +5,7 @@ import EnterpriseTemplate from "@/components/home/EnterpriseTemplate";
 import HeroSection from "@/components/home/HeroSection";
 import OurBlog from "@/components/home/OurBlog";
 import OurServices from "@/components/home/OurServices";
+import StartNow from "@/components/home/StartNow";
 import NavBar from "@/components/shared/NavBar";
 
 const HomePage = () => {
@@ -20,6 +21,7 @@ const HomePage = () => {
       <div className="max-w-1400px mx-auto px-100px">
         <ConnectOurCustomersThree />
         <OurBlog />
+        <StartNow />
       </div>
     </div>
   );
