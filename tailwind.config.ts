@@ -19,8 +19,14 @@ const config: Config = {
     extend: {
       spacing: {
         "50px": "50px",
+        "60px": "60px",
         "100px": "100px",
+        "187px": "187px",
         "201px": "201px",
+        "247px": "247px",
+      },
+      lineHeight: {
+        72: "72px",
       },
       backgroundImage: {
         "hero-arc": "url('/assets/images/hero_bg_arc.svg')",
