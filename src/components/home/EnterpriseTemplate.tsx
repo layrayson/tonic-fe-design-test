@@ -2,8 +2,8 @@ import Image from "next/image";
 
 const EnterpriseTemplate = () => {
   return (
-    <div className="bg-dark-blue">
-      <section className="max-w-1400px mx-auto px-100px py-24  flex flex-col justify-between">
+    <div className="bg-dark-blue mt-120px">
+      <section className="max-w-1400px mx-auto px-150px py-24  flex flex-col justify-between">
         <div className="flex justify-between items-end mb-72px">
           <div>
             <h1 className="text-5xl leading-72 text-white mb-6">
