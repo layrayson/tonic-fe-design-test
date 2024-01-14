@@ -52,8 +52,10 @@ const config: Config = {
       },
       fontSize: {
         "2.5xl": "1.75rem",
+        "6.5xl": "4rem",
       },
       lineHeight: {
+        84: "84px",
         72: "72px",
         56: "56px",
         48: "48px",
