@@ -1,6 +1,10 @@
 import HeroSection from "@/components/about/HeroSection";
 import OurNumbers from "@/components/about/OurNumbers";
 import OurStory from "@/components/about/OurStory";
+import OurTeam from "@/components/about/OurTeam";
+import OurBlog from "@/components/about/ourBlog";
+import StartNow from "@/components/home/StartNow";
+import Footer from "@/components/shared/Footer";
 
 const AboutPage = () => {
   return (
@@ -10,6 +14,10 @@ const AboutPage = () => {
         <OurNumbers />
       </div>
       <OurStory />
+      <div className="max-w-1400px mx-auto px-100px">
+        <OurTeam />
+      </div>
+      <OurBlog />
     </div>
   );
 };

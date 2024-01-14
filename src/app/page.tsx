@@ -22,8 +22,6 @@ const HomePage = () => {
       <div className="max-w-1400px mx-auto px-100px">
         <ConnectOurCustomersThree />
         <OurBlog />
-        <StartNow />
-        <Footer />
       </div>
     </div>
   );
