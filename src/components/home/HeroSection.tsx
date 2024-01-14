@@ -38,7 +38,8 @@ const HeroSection = () => {
           </div>
         </div>
 
-        <div className="grid grid-cols-6 gap-x-20">
+        <div className="grid grid-cols-6 gap-x-20 relative">
+          <div className="absolute w-full h-full bg-fade-gradient"></div>
           <div className="w-full">
             <Image
               src={"/assets/images/boldo_logo_white.svg"}

@@ -63,6 +63,8 @@ const config: Config = {
       backgroundImage: {
         "hero-arc": "url('/assets/images/hero_bg_arc.svg')",
         "start-now-arc": "url('/assets/images/start_now_bg_arc.svg')",
+        "fade-gradient":
+          "linear-gradient(90deg, #0A2640 0%, rgba(10, 38, 64, 0.11) 31.6%, rgba(10, 38, 64, 0.00) 72.89%, #0A2640 97.87%)",
       },
       boxShadow: {
         mini: "0px 4px 32px 0px rgba(0, 0, 0, 0.08)",
