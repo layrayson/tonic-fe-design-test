@@ -3,8 +3,6 @@ import OurNumbers from "@/components/about/OurNumbers";
 import OurStory from "@/components/about/OurStory";
 import OurTeam from "@/components/about/OurTeam";
 import OurBlog from "@/components/about/ourBlog";
-import StartNow from "@/components/home/StartNow";
-import Footer from "@/components/shared/Footer";
 
 const AboutPage = () => {
   return (

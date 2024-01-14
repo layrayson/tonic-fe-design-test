@@ -36,8 +36,9 @@ const OurBlog = () => {
               </div>
               <div>
                 <p className="text-white text-xl leading-8">
-                  Conversion angel investor entrepreneur first mover advantage.
-                  Handshake infographic mass market crowdfunding iteration.
+                  Mass market iPhone buzz conversion analytics stock iteration
+                  responsive web design user experience business plan handshake.
+                  Return on investment seed round MVP backing supply chain.
                 </p>
               </div>
             </div>
@@ -49,8 +50,9 @@ const OurBlog = () => {
               </div>
               <div>
                 <p className="text-white text-xl leading-8">
-                  Conversion angel investor entrepreneur first mover advantage.
-                  Handshake infographic mass market crowdfunding iteration.
+                  Bootstrapping rockstar first mover advantage business model
+                  canvas alpha deployment launch party beta facebook metrics
+                  gamification growth hacking customer focus.
                 </p>
               </div>
             </div>

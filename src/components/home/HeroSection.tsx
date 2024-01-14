@@ -38,7 +38,7 @@ const HeroSection = () => {
           </div>
         </div>
 
-        <div className="grid grid-cols-6 gap-x-16">
+        <div className="grid grid-cols-6 gap-x-20">
           <div className="w-full">
             <Image
               src={"/assets/images/boldo_logo_white.svg"}

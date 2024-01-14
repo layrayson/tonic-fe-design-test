@@ -26,7 +26,7 @@ const HeroSection = () => {
               </div>
               <div className="w-5/12">
                 <div className="flex gap-x-3 mb-3">
-                  <p className="text-dark-blue text-bold leading-7">Category</p>
+                  <p className="text-dark-blue font-bold leading-7">Category</p>
                   <p className="text-gray leading-7">November 22, 2021</p>
                 </div>
                 <div className="mb-5 ">

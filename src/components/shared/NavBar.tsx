@@ -10,20 +10,22 @@ const NavBar = ({ dark = false }: NavBarProps) => {
   return (
     <nav className="flex justify-between items-center">
       <div>
-        <Image
-          src={
-            dark
-              ? "/assets/images/boldo_logo_dark_blue.svg"
-              : "/assets/images/boldo_nav_logo.svg"
-          }
-          alt="logo"
-          width={162}
-          height={42}
-        />
+        <Link href={"/"}>
+          <Image
+            src={
+              dark
+                ? "/assets/images/boldo_logo_dark_blue.svg"
+                : "/assets/images/boldo_nav_logo.svg"
+            }
+            alt="logo"
+            width={162}
+            height={42}
+          />
+        </Link>
       </div>
       <div className="flex items-center gap-x-10 ">
         <Link
-          href={"#"}
+          href={"/blog"}
           className={`text-base font-semibold ${
             dark ? "text-dark-blue" : "text-white"
           }`}
@@ -31,7 +33,7 @@ const NavBar = ({ dark = false }: NavBarProps) => {
           Product
         </Link>
         <Link
-          href={"#"}
+          href={"/blog"}
           className={`text-base font-semibold ${
             dark ? "text-dark-blue" : "text-white"
           }`}

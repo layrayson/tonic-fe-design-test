@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col gap-y-8">
           <h5 className="text-xl font-bold leading-8">Landings</h5>
-          <Link href={"#"} className="text-xl text-gray font-normal">
+          <Link href={"/about"} className="text-xl text-gray font-normal">
             About
           </Link>
           <Link href={"#"} className="text-xl text-gray font-normal">
@@ -39,7 +39,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col gap-y-8">
           <h5 className="text-xl font-bold leading-8">Company</h5>
-          <Link href={"#"} className="text-xl text-gray font-normal">
+          <Link href={"/"} className="text-xl text-gray font-normal">
             Home
           </Link>
           <Link href={"#"} className="text-xl text-gray font-normal">
@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col gap-y-8">
           <h5 className="text-xl font-bold leading-8">Resources</h5>
-          <Link href={"#"} className="text-xl text-gray font-normal">
+          <Link href={"/blog"} className="text-xl text-gray font-normal">
             Blog
           </Link>
           <Link href={"#"} className="text-xl text-gray font-normal">
