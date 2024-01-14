@@ -6,7 +6,7 @@ const StartNow = () => {
       <div className="py-72px">
         <div className="mb-50px">
           <h1 className="text-5xl leading-72 text-center text-white mb-20">
-            Value proposition accelerator product <br /> management venture{" "}
+            An enterprise template to ramp <br /> up your company website
           </h1>
         </div>
         <div className="flex gap-x-6 justify-center">
