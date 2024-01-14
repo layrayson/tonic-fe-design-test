@@ -16,11 +16,11 @@ const HeroSection = () => {
               </div>
               <div>
                 <h3 className="text-5xl leading-72 font-normal">
-                  We love to make great things, things that matter.
+                  We love to make great <br /> things, things that matter.
                 </h3>
               </div>
             </div>
-            <div className="w-5/12">
+            <div className="w-4/12">
               <p className="leading-7 text-dark-blue">
                 Funding handshake buyer business-to-business metrics iPad
                 partnership. First mover advantage innovator success deployment
