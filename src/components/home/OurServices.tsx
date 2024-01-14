@@ -32,8 +32,8 @@ const OurServices = () => {
             </p>
           </div>
           <Link href={"#"} className="w-fit ">
-            <div className="h-9 flex items-center gap-x-3 border-b w-fit text-xl font-bold text-dark-blue">
-              Explore page{" "}
+            <div className="h-12 flex items-center gap-x-3 border-b w-fit text-xl font-bold text-dark-blue">
+              <p>Explore page </p>{" "}
               <Image
                 src="/assets/icons/arrow_right.svg"
                 width={24}
@@ -62,8 +62,8 @@ const OurServices = () => {
             </p>
           </div>
           <Link href={"#"} className="w-fit ">
-            <div className="h-9 flex items-center gap-x-3 border-b w-fit text-xl font-bold text-dark-blue">
-              Explore page{" "}
+            <div className="h-12 flex items-center gap-x-3 border-b w-fit text-xl font-bold text-dark-blue">
+              <p>Explore page </p>
               <Image
                 src="/assets/icons/arrow_right.svg"
                 width={24}
@@ -92,8 +92,8 @@ const OurServices = () => {
             </p>
           </div>
           <Link href={"#"} className="w-fit ">
-            <div className="h-9 flex items-center gap-x-3 border-b w-fit text-xl font-bold text-dark-blue">
-              Explore page{" "}
+            <div className="h-12 flex items-center gap-x-3 border-b w-fit text-xl font-bold text-dark-blue">
+              <p>Explore page </p>{" "}
               <Image
                 src="/assets/icons/arrow_right.svg"
                 width={24}
