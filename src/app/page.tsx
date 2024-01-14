@@ -6,6 +6,7 @@ import HeroSection from "@/components/home/HeroSection";
 import OurBlog from "@/components/home/OurBlog";
 import OurServices from "@/components/home/OurServices";
 import StartNow from "@/components/home/StartNow";
+import Footer from "@/components/shared/Footer";
 import NavBar from "@/components/shared/NavBar";
 
 const HomePage = () => {
@@ -22,6 +23,7 @@ const HomePage = () => {
         <ConnectOurCustomersThree />
         <OurBlog />
         <StartNow />
+        <Footer />
       </div>
     </div>
   );
