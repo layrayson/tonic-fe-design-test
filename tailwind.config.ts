@@ -47,6 +47,7 @@ const config: Config = {
       },
       lineHeight: {
         72: "72px",
+        56: "56px",
       },
       backgroundImage: {
         "hero-arc": "url('/assets/images/hero_bg_arc.svg')",

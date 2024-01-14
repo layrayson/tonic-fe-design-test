@@ -14,7 +14,7 @@ const ConnectOurCustomersThree = () => {
       </div>
       <div className="grid grid-cols-2 gap-x-20">
         <div>
-          <h3 className="text-4xl leading-56px font-normal">
+          <h3 className="text-4xl leading-56 font-normal">
             We connect our customers with the best, and help them keep up and
             stay open.
           </h3>
